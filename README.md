@@ -1,5 +1,7 @@
 <h3 align="center">Hey there! I'm Zeb.</h3>
 
+<hr>
+
 **Glad to have you on board!** Here's some info about me:
 
 - 🔭 I'm currently updating the [AFK-daily script](https://github.com/zebscripts/AFK-Daily) for AFK Arena (mobile game) daily, as well as maintaining [Labeler](https://github.com/Zebiano/Labeler) and [Voyager](https://github.com/LabPath/Voyager) up to date and running.
@@ -10,6 +12,7 @@
 
 Most of my GitHub repositories will probably be personal projects where I felt the need for something that didn't exist yet or that I couldn't find online, so I made it myself. Take a look around, I'm sure at least *one* repository will interest you!
 
+<hr>
 <br>
 
 <div align="center">
