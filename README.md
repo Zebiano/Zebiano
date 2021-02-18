@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Zeb.</h2>
+<h3 align="center">Hey there! I'm Zeb.</h3>
 
 **Glad to have you on board!** Here's some info about me:
 
@@ -10,7 +10,7 @@
 
 Most of my GitHub repositories will probably be personal projects where I felt the need for something that didn't exist yet or that I couldn't find online, so I made it myself. Take a look around, I'm sure at least *one* repository will interest you!
 
-<hr>
+<br>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats"><img src="https://github-readme-stats.vercel.app/api?username=Zebiano&count_private=true&show_icons=true&theme=nord&custom_title=GitHub%20stats:"></img></a>
