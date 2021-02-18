@@ -1,5 +1,4 @@
 <h2 align="center">Hey there! I'm Zeb.</h2>
-<hr>
 
 **Glad to have you on board!** Here's some info about me:
 
