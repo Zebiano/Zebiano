@@ -6,7 +6,7 @@
 - 🌱 I'm mainly a NodeJS back-end developer who loves creating APIs and anything that is related to JavaScript. I also like to automate any repetitive task in my life and have a special interest in AI.
 - ⚙️ I mostly work with `.js`, `.sh` and `.md`.
 - 💬 Contact me through [Discord](http://discordapp.com/users/241655863616471041) under `Zebiano#2989`! Ask me anything, I promise I'll always answer honestly.
-- ⚡ Fun fact: I'm colorblind and I once had a viral 9GAG post.
+- ⚡ Fun fact: I'm colorblind and I once had a viral YouTube comment.
 
 Most of my GitHub repositories will probably be personal projects where I felt the need for something that didn't exist yet or that I couldn't find online, so I made it myself. Take a look around, I'm sure at least *one* repository will interest you!
 
