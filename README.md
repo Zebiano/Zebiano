@@ -12,6 +12,4 @@ Most of my GitHub repositories will probably be personal projects where I felt t
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats"><img src="https://github-readme-stats.vercel.app/api?username=Zebiano&count_private=true&show_icons=true&theme=nord&custom_title=GitHub%20stats:"></img></a>
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views"><img src="https://komarev.com/ghpvc/?username=Zebiano"></img></a>
 </div>
